@@ -1,8 +1,8 @@
 :root {
   /* Body Background Colours */
   --header: 0, 0, 0;
-  --friendlist: 30, 30, 31;
-  --footer: 21, 21, 21;
+  --friendlist: 10, 10, 10;
+  --footer: 8, 8, 8;
 
   /* Text */
   --text: 255, 255, 255;
